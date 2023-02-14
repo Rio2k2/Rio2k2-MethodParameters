@@ -16,7 +16,7 @@ public class ParrotTest {
         Assert.assertEquals(expected, actual);
     }
     /**
-     * If p.copy is passed "polly", it should return "polly".
+     * If p.copy is passed "polly", it should return "hello".
      */
     @Test
     public void parrotTestPolly(){
